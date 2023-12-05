@@ -1,4 +1,4 @@
-//no need to add any component on breadboard. Serial monitor will print the array below present. 
+//no need to add any components on breadboard. Serial monitor will print the array below present. 
 
 void setup()
 {
