@@ -1,0 +1,17 @@
+//no need to add any component on breadboard. Serial monitor will print the array below present. 
+
+void setup()
+{
+ int my_array[5] = {23, 1001, 9, 1234, 987};
+  int i;
+  Serial.begin(9600);
+  
+  for(i=0; i<5; i++) {
+    Serial.println(my_array[i]);
+}
+}
+
+void loop()
+{
+ 
+}
